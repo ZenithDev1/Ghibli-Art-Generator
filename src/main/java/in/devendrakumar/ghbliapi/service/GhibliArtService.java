@@ -103,8 +103,7 @@ public class GhibliArtService {
         );
     }
 
-    // ---------------------------------------------------------
-    // (Updated to use Free Hugging Face)
+    // (Updatinng to use Free Hugging Face)
     // ---------------------------------------------------------
     public byte[] createGhibliArtFromText(String prompt, String style) {
         try {
